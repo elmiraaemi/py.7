@@ -1,0 +1,5 @@
+001,bastani,5000t,11
+002,mast,7000t,5
+003,pasta,25000t,15
+004,roghan,100000t,2
+005,lavashak,2000t,7

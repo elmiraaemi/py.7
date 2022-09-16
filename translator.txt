@@ -1,0 +1,8 @@
+i,man
+am,hastam
+a,yek
+student,daneshjoo
+like,doost daram
+plants,giyahan
+color,rang
+
